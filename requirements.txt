@@ -1,5 +1,8 @@
 flask
-gunicorn
-tensorflow
+flask-cors
+torch
+torchvision
+timm
+Pillow
 numpy
-pillow
+gunicorn
