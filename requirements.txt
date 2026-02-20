@@ -1,8 +1,10 @@
 flask
 flask-cors
-torch
-torchvision
-timm
-Pillow
-numpy
 gunicorn
+tensorflow
+numpy
+pillow
+opencv-python
+psycopg2-binary
+sqlalchemy
+werkzeug
